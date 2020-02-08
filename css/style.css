@@ -1,0 +1,20 @@
+body {
+    margin: 80px;
+	background-color: #abb;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h1 {
+	text-decoration: underline;
+}
+
+#game{
+	width: 800px;
+	height: 600px;
+	border-style: solid;
+	border-color: #247;
+	border-width: 10px;
+	border-radius: 8px;
+	margin: 0 auto;
+}
